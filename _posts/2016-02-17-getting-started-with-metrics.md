@@ -12,6 +12,7 @@ tags: [metrics]
 - [https://codeascraft.com/2011/02/15/measure-anything-measure-everything](https://codeascraft.com/2011/02/15/measure-anything-measure-everything)
 - [https://codeascraft.com/2010/12/08/track-every-release](https://codeascraft.com/2010/12/08/track-every-release)
 - [https://github.com/etsy/statsd](https://github.com/etsy/statsd)
+- [https://blog.pkhamre.com/understanding-statsd-and-graphite](https://blog.pkhamre.com/understanding-statsd-and-graphite)
 
 ### .net client
 - [https://github.com/Pereingo/statsd-csharp-client](https://github.com/Pereingo/statsd-csharp-client)
