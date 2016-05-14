@@ -5,13 +5,13 @@ description: "Brainstorming about central logging, and crunching those logs"
 tags: [logging]
 ---
 
-[Filebeat](https://www.elastic.co/products/beats/filebeat)
-Filebeat is a lightweight, open source shipper for log file data.
+[Filebeat](https://www.elastic.co/products/beats/filebeat) is a lightweight, open source shipper for log file data.
 
 [Install the elk stack on Azure](https://www.garysieling.com/blog/installing-the-elk-stack-on-azure)
 
-(http://blachniet.com/blog/structured-logging-serilog-elk/)
+http://blachniet.com/blog/structured-logging-serilog-elk/
 
-(http://blachniet.com/blog/serilog-good-habits/)
+http://blachniet.com/blog/serilog-good-habits/
 
 [Log levels](http://stackoverflow.com/a/2031209/810255)
+
