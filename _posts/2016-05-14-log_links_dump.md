@@ -9,10 +9,10 @@ tags: [logging]
 
 [Install the elk stack on Azure](https://www.garysieling.com/blog/installing-the-elk-stack-on-azure)
 
-[](http://blachniet.com/blog/structured-logging-serilog-elk/)
+[Structured logging with Serilog and ELK](http://blachniet.com/blog/structured-logging-serilog-elk/)
 
-http://blachniet.com/blog/serilog-good-habits/
+[Serilog good habits](http://blachniet.com/blog/serilog-good-habits/)
 
 [Log levels](http://stackoverflow.com/a/2031209/810255)
 
-http://spencerooni.github.io/2015/07/10/real-time-monitoring-of-.net-web-applications-with-logstash-elasticsearch-and-kibana.html
+[Real time monitoring](http://spencerooni.github.io/2015/07/10/real-time-monitoring-of-.net-web-applications-with-logstash-elasticsearch-and-kibana.html)
