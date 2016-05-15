@@ -9,7 +9,7 @@ tags: [logging]
 
 [Install the elk stack on Azure](https://www.garysieling.com/blog/installing-the-elk-stack-on-azure)
 
-http://blachniet.com/blog/structured-logging-serilog-elk/
+(http://blachniet.com/blog/structured-logging-serilog-elk/)
 
 http://blachniet.com/blog/serilog-good-habits/
 
