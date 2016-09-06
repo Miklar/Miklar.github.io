@@ -10,3 +10,5 @@ tags: [metrics]
 [10-things-i-learned-deploying-graphite/](https://kevinmccarthy.org/2013/07/18/10-things-i-learned-deploying-graphite/)
 
 [track-every-release](https://codeascraft.com/2010/12/08/track-every-release/) probably a repost
+
+[accurate-counting-with-graphite-and-statsd](http://code.hootsuite.com/accurate-counting-with-graphite-and-statsd/)
