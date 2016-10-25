@@ -1,4 +1,9 @@
-# Link dump for guitar pedals DIY
+---
+layout: post
+title: "Link dump for guitar pedals DIY"
+description: ""
+tags: [links, guitar]
+---
 
 http://taydakits.com/
 http://www.musikding.de/
