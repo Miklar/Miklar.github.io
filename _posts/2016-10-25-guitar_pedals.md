@@ -5,7 +5,7 @@ description: ""
 tags: [links, guitar]
 ---
 
-[http://taydakits.com/](http://taydakits.com/)
+[http://taydakits.com/](http://taydakits.com)
 [http://www.musikding.de/]
 [http://www.parasitstudio.se/]
 [http://www.sabrotone.com/]
