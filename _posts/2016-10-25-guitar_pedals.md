@@ -5,9 +5,9 @@ description: ""
 tags: [links, guitar]
 ---
 
-http://taydakits.com/
-http://www.musikding.de/
-http://www.parasitstudio.se/
-http://www.sabrotone.com/
-http://effectslayouts.blogspot.se/
-http://tagboardeffects.blogspot.se/
+[http://taydakits.com/]
+[http://www.musikding.de/]
+[http://www.parasitstudio.se/]
+[http://www.sabrotone.com/]
+[http://effectslayouts.blogspot.se/]
+[http://tagboardeffects.blogspot.se/]
