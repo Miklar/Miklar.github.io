@@ -20,3 +20,20 @@ tags: [links, guitar]
 [http://tagboardeffects.blogspot.se/](http://tagboardeffects.blogspot.se)
 
 [https://aionelectronics.com/](https://aionelectronics.com/)
+
+##Components
+[http://dsmcz.com/presta/en/](http://dsmcz.com/presta/en/)
+
+[https://www.elfa.se/](https://www.elfa.se/)
+
+[http://www.mouser.se/](http://www.mouser.se/)
+
+[http://www.taydaelectronics.com/](http://www.taydaelectronics.com/)
+
+[http://smallbear-electronics.mybigcommerce.com/](http://smallbear-electronics.mybigcommerce.com/)
+
+[https://moodysounds.com](https://moodysounds.com)
+
+[http://www.electrokit.com/](http://www.electrokit.com/)
+
+[http://www.bhiab.se/](http://www.bhiab.se/)
