@@ -37,6 +37,3 @@ tags: [links, guitar]
 [http://www.electrokit.com/](http://www.electrokit.com/)
 
 [http://www.bhiab.se/](http://www.bhiab.se/)
-
-[http://dsmcz.com/](http://dsmcz.com/)
-
