@@ -43,3 +43,18 @@ tags: [links, guitar]
 [https://www.banzaimusic.com/](https://www.banzaimusic.com/)
 
 [https://www.microkit.se/](https://www.microkit.se/)
+
+## Knowledge
+
+[http://www.coda-effects.com/](http://www.coda-effects.com/)
+
+[http://www.guitarpcb.com/PDF%20Files/A%20Beginners%20Guide%20to%20Effects%20Pedal%20Components.pdf](A BEGINNERS GUIDE TO EFFECTS PEDALS COMPONENTS)
+
+[http://www.generalguitargadgets.com/](http://www.generalguitargadgets.com/)
+
+[http://www.geofex.com/](http://www.geofex.com/)
+
+[http://www.electrosmash.com/](http://www.electrosmash.com/)
+
+[http://www.falstad.com/circuit/](http://www.falstad.com/circuit/)
+
